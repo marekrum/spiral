@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>planet2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.00807884957%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4E5BF9" offset="0%"></stop>
+            <stop stop-color="#009BE5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2924.000000, -2746.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <circle id="planet2" cx="2986.85" cy="2808.38" r="61.89"></circle>
+        </g>
+    </g>
+</svg>

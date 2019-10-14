@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icecream5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.23674246%" y1="74.2760954%" x2="93.332408%" y2="25.1401102%" id="linearGradient-1">
+            <stop stop-color="#4E5BF9" offset="0%"></stop>
+            <stop stop-color="#009BE5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-3144.000000, -2386.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <circle id="icecream5" cx="3159.73" cy="2401.6" r="15.23"></circle>
+        </g>
+    </g>
+</svg>
